@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="profile-banner.png" alt="Aashrayaa Bandi — Data Science Student" width="100%" />
+  <img src="Aashrayaa Bandi Data Science Banner.png" alt="Aashrayaa Bandi — Data Science Student" width="100%" />
 </p>
 
 <h3 align="center">
