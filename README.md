@@ -25,40 +25,58 @@
 
 ## About Me
 
-I'm a B.Sc. Data Science student at Aditya Degree College for Women, interested in using data, programming, and analytical thinking to solve practical problems.
+I'm Aashrayaa, a Data Science undergraduate interested in using data, programming, and analytical thinking to solve practical problems.
 
 - Exploring data analytics, machine learning, and data visualization.
 - Strengthening my Python, SQL, and problem-solving skills.
-- Practising Data Structures and Algorithms through LeetCode.
+- Practicing Data Structures and Algorithms.
 - Building projects that combine data science with real-world applications.
 - Learning consistently and documenting my progress through code.
 
 ---
 
+
 ## Tech Stack
+
+<p align="center">
+  <strong>Languages & Web Development</strong>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-24476B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-24476B?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-24476B?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/HTML5-24476B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-24476B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-24476B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
+
+<p align="center">
+  <strong>Data Science & Machine Learning</strong>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-24476B?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-24476B?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-24476B?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-547FA6?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-547FA6?style=for-the-badge" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Tableau-24476B?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
+
+<p align="center">
+  <strong>Tools & Platforms</strong>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-24476B?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-24476B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-24476B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-547FA6?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-547FA6?style=flat-square" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-547FA6?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/DSA-Learning-547FA6?style=flat-square" alt="Data Structures and Algorithms" />
+  <sub>Technologies I use, practise, and continue to explore through projects and learning.</sub>
 </p>
 
-<p align="center">
-  <sub>Tools and technologies I'm learning and using in projects.</sub>
-</p>
-
----
 
 ## Featured Projects
 
