@@ -12,9 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aashrayaa-B">
-    <img src="https://img.shields.io/badge/GitHub-Aashrayaa--B-263B55?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/aashrayaa27">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-426D9B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
