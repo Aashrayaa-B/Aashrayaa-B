@@ -36,10 +36,11 @@ I'm Aashrayaa, a Data Science undergraduate interested in using data, programmin
 ---
 
 
+
 ## Tech Stack
 
 <p align="center">
-  <strong>Languages & Web Development</strong>
+  <strong>Programming & Web Development</strong>
 </p>
 
 <p align="center">
@@ -64,7 +65,18 @@ I'm Aashrayaa, a Data Science undergraduate interested in using data, programmin
 </p>
 
 <p align="center">
-  <strong>Tools & Platforms</strong>
+  <strong>Productivity & Data Tools</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word" />
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+<p align="center">
+  <strong>Development Tools</strong>
 </p>
 
 <p align="center">
@@ -74,8 +86,9 @@ I'm Aashrayaa, a Data Science undergraduate interested in using data, programmin
 </p>
 
 <p align="center">
-  <sub>Technologies I use, practise, and continue to explore through projects and learning.</sub>
+  <sub>Tools and technologies I use, practise, and continue to explore through projects and learning.</sub>
 </p>
+
 
 
 ## Featured Projects
@@ -182,15 +195,3 @@ Currently building my foundation in Data Structures and Algorithms, one problem 
 </p>
 
 ---
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Aashrayaa-B">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/aashrayaa27">LinkedIn</a>
-</p>
-
-<p align="center">
-  <i>Learning consistently. Building thoughtfully. Growing with every commit.</i>
-</p>
