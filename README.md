@@ -1,42 +1,46 @@
+Hey, I'm Aashrayaa Bandi 👋
+Data Science Student · Python · SQL · Analytics
 
-<h1 align="center">Hey there, I'm Aashrayaa 👋</h1>
+👩🏻‍💻 About Me
+- 🎓 B.Sc. Data Science student at Aditya Degree College for Women.
+- 📊 Interested in Data Analytics, Machine Learning, and turning data into insights.
+- 🐍 Building skills in Python, SQL, data visualization, and problem-solving.
+- 🌱 Learning DSA and solving LeetCode problems consistently.
+🚀 Featured Projects
+SKILLIX — Career Intelligence Platform In Progress
 
-<h3 align="center">Data Science Student | Python Enthusiast | Aspiring Problem Solver</h3>
 
-<p align="center">
-  Learning by building, solving problems, and showing up consistently. 🌱
-</p>
+Career discovery, resume analysis, skill-gap identification, and job matching using web technologies and Python-based ML/NLP components.
 
----
+Python · Machine Learning/NLP · Web Development
 
-### 👩‍💻 About Me
+View repository
 
-- 🎓 B.Sc. Data Science student
-- 🐍 Learning Python and Data Structures & Algorithms
-- 📊 Interested in Data Science, Machine Learning, and AI
-- 🧩 Practising problem-solving on LeetCode
-- 🚀 Building projects and learning something new every day
+HR Analytics — Employee Attrition Analysis
 
-### 🛠️ Tech Stack
+Analyzed 1,470 employee records and created visualizations to investigate attrition patterns and support retention recommendations.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, Git, GitHub and VS Code"/>
-</p>
+Python · Pandas · Matplotlib · Seaborn
 
-### 📌 Featured Projects
+View repository
 
-- **[SKILLIX](https://github.com/Aashrayaa-B)** — AI-powered career intelligence and skill gap analysis platform
-- **[Career Canvas](https://github.com/Aashrayaa-B)** — An educational project for career exploration
-- **[DSA Practice](https://github.com/Aashrayaa-B/DSA)** — My journey through coding problems
+E-Commerce Sales Dashboard
 
-### 🌱 Current Focus
+An interactive Tableau dashboard exploring revenue, order volume, average order value, and customer-related KPIs using Olist Brazil data.
 
-- Strengthening Python fundamentals
-- Learning DSA step by step
-- Solving LeetCode problems consistently
+Tableau · Data Visualization · Business Analytics
 
----
+Career Canvas
 
-<p align="center">
-  <i>Small steps. Consistent effort. Real progress. ✨</i>
-</p>
+A team project exploring career insights, company discovery, salary information, reviews, and location-based information.
+
+HTML · CSS · JavaScript · Team of 8
+
+View repository
+
+
+🛠️ Tech Stack
+
+Python · SQL · Pandas · NumPy · Scikit-learn · Tableau · Power BI · Git · GitHub
+
+Learning consistently. Building thoughtfully. Growing every day. ✨
