@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img width="100%" alt="Aashrayaa Banner" src="https://github.com/user-attachments/assets/cb0ace8a-7999-4296-998a-d2684dc42365" />
+  <img
+    width="100%"
+    alt="Aashrayaa Banner"
+    src="https://github.com/user-attachments/assets/cb0ace8a-7999-4296-998a-d2684dc42365"
+  />
 
   <br />
 
@@ -20,7 +24,7 @@
   &nbsp; · &nbsp;
   <a href="#toolkit">TOOLKIT</a>
   &nbsp; · &nbsp;
-  <a href="#contact">CONTACT</a>
+  <a href="#contact">LET'S CONNECT</a>
 
 </div>
 
@@ -121,8 +125,26 @@ Also familiar with Microsoft Word, PowerPoint, and Notion.
 
 <div align="center" id="contact">
 
-  <p><strong>LEARN · BUILD · IMPROVE · GROW</strong></p>
+  <h2>Let's Connect</h2>
 
-  <a href="https://github.com/Aashrayaa-B">GitHub</a>
+  <p>
+    <a href="https://www.linkedin.com/in/aashrayaa27/">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-3B4D68?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+    &nbsp;
+    <a href="mailto:b.aashrayaa@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Gmail-3B4D68?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Email"
+      />
+    </a>
+  </p>
+
+  <br />
+
+  <sub>LEARN · BUILD · IMPROVE · GROW</sub>
 
 </div>
