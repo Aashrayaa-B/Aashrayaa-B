@@ -1,197 +1,128 @@
+<div align="center">
 
-<p align="center">
-  <img src="Aashrayaa Bandi Data Science Banner.png" alt="Aashrayaa Bandi — Data Science Student" width="100%" />
-</p>
+  <img width="100%" alt="Aashrayaa Banner" src="https://github.com/user-attachments/assets/cb0ace8a-7999-4296-998a-d2684dc42365" />
 
-<h3 align="center">Data Science Student | Python | SQL | Analytics</h3>
+  <br />
 
-<p align="center">
-  Turning data into insights and ideas into practical solutions.
-</p>
+  <p><strong>DATA SCIENCE STUDENT · ANALYTICS · MACHINE LEARNING</strong></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aashrayaa27">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Aashrayaa-B?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-365F91?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-4479A1?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode practice" />
-  </a>
-</p>
+  <h1>Aashrayaa Bandi</h1>
 
----
+  <p><em>Turning data into meaningful insights.</em></p>
 
-## About Me
+  <p>
+    Exploring data, building practical projects, and learning to turn ideas into useful solutions.
+  </p>
 
-I'm Aashrayaa, a Data Science undergraduate interested in using data, programming, and analytical thinking to solve practical problems.
+  <br />
 
-- Exploring data analytics, machine learning, and data visualization.
-- Strengthening my Python, SQL, and problem-solving skills.
-- Practicing Data Structures and Algorithms.
-- Building projects that combine data science with real-world applications.
-- Learning consistently and documenting my progress through code.
+  <a href="#projects">PROJECTS</a>
+  &nbsp; · &nbsp;
+  <a href="#toolkit">TOOLKIT</a>
+  &nbsp; · &nbsp;
+  <a href="#contact">CONTACT</a>
+
+</div>
 
 ---
 
+## About
 
+I'm a B.Sc. Data Science student interested in data analysis, machine learning, and building useful applications.
 
-## Tech Stack
-
-<p align="center">
-  <strong>Programming & Web Development</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-24476B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-24476B?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-24476B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-24476B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-24476B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>
-
-<p align="center">
-  <strong>Data Science & Machine Learning</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-24476B?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-24476B?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-24476B?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-547FA6?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-547FA6?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Tableau-24476B?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
-
-<p align="center">
-  <strong>Productivity & Data Tools</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word" />
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-</p>
-
-<p align="center">
-  <strong>Development Tools</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-24476B?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-24476B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-24476B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
-</p>
-
-<p align="center">
-  <sub>Tools and technologies I use, practise, and continue to explore through projects and learning.</sub>
-</p>
-
-
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>SKILLIX</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-D49A35?style=flat-square" alt="In progress" />
-      </p>
-      <p>An AI-powered career intelligence platform for resume analysis, skill-gap identification, career recommendations, and job matching.</p>
-      <p><strong>Python · FastAPI · React · ML/NLP</strong></p>
-      <a href="https://github.com/Aashrayaa-B/SKILLIX">Explore SKILLIX →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>HR Attrition Analysis</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Project-Data%20Analysis-547FA6?style=flat-square" alt="Data analysis project" />
-      </p>
-      <p>An exploratory data analysis project investigating employee attrition patterns and workplace factors.</p>
-      <p><strong>Python · Pandas · Matplotlib · Seaborn</strong></p>
-      <a href="https://github.com/Aashrayaa-B/HR_Attrition_Analysis">Explore HR Analytics →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Olist E-Commerce Dashboard</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Tool-Tableau-547FA6?style=flat-square" alt="Tableau project" />
-      </p>
-      <p>An interactive Tableau dashboard exploring Brazilian e-commerce sales and business performance.</p>
-      <p><strong>Tableau · Data Visualization · Business Analytics</strong></p>
-      <a href="https://github.com/Aashrayaa-B?tab=repositories">Explore repositories →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>DSA Practice</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Learning-547FA6?style=flat-square" alt="Learning" />
-      </p>
-      <p>A growing collection of Python solutions and coding practice as I strengthen my problem-solving fundamentals.</p>
-      <p><strong>Python · LeetCode · DSA</strong></p>
-      <a href="https://github.com/Aashrayaa-B/DSA">Explore DSA Practice →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Career Canvas</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Project-Team%20Project-547FA6?style=flat-square" alt="Team project" />
-      </p>
-      <p>A collaborative educational platform focused on career exploration and helping students discover companies and opportunities.</p>
-      <p><strong>Web Development · Career Exploration</strong></p>
-      <a href="https://github.com/Aashrayaa-B/Career-Canvas">Explore Career Canvas →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>More Projects</h3>
-      <p>Explore my repositories to discover more projects, experiments, and learning progress.</p>
-      <p><strong>Data Science · Analytics · Development</strong></p>
-      <a href="https://github.com/Aashrayaa-B?tab=repositories">View all repositories →</a>
-    </td>
-  </tr>
-</table>
+I enjoy learning by doing — exploring datasets, creating visualizations, solving analytical problems, and developing projects that connect technology with real-world needs.
 
 ---
 
-## LeetCode Journey
+## Projects
 
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Practising-426D9B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode practice" />
-  </a>
-</p>
+### 01 · SKILLIX
 
-Currently building my foundation in Data Structures and Algorithms, one problem at a time.
+**Career intelligence and skill-gap analysis**
 
-- Learning problem-solving patterns step by step.
-- Practising Python solutions.
-- Focusing on understanding the logic rather than memorising code.
+An AI-powered career platform designed to help users explore career paths, understand skills, and compare resumes with job requirements.
+
+`React` `Python` `FastAPI` `SQLite` `Machine Learning`
+
+[View project →](https://github.com/Aashrayaa-B/SKILLIX)
 
 ---
 
-## GitHub Statistics
+### 02 · HR Attrition Analysis
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aashrayaa-B&show_icons=true&hide_border=true&bg_color=0D1724&title_color=A9D6F5&text_color=D6E5F2&icon_color=79B8E8"
-    alt="GitHub statistics"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashrayaa-B&layout=compact&hide_border=true&bg_color=0D1724&title_color=A9D6F5&text_color=D6E5F2"
-    alt="Most used languages"
-    width="49%"
-  />
-</p>
+**Exploratory data analysis and visualization**
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Aashrayaa-B&hide_border=true&background=0D1724&ring=79B8E8&fire=79B8E8&currStreakLabel=A9D6F5&sideLabels=D6E5F2&dates=93AFC5&currStreakNum=D6E5F2&sideNums=D6E5F2"
-    alt="GitHub contribution streak"
-    width="70%"
-  />
-</p>
+A data analysis project exploring employee attrition patterns using Python, exploratory analysis, and visualizations.
+
+`Python` `Jupyter Notebook` `EDA` `Data Visualization`
+
+[View project →](https://github.com/Aashrayaa-B/HR_Attrition_Analysis)
 
 ---
+
+### 03 · Olist E-commerce Tableau Dashboard
+
+**Business intelligence and data visualization**
+
+An interactive Tableau dashboard project exploring e-commerce sales data from Brazil.
+
+`Tableau` `Data Visualization` `Business Analytics`
+
+[View project →](https://github.com/Aashrayaa-B/olist-ecommerce-tableau-dashboard)
+
+---
+
+### 04 · Career Canvas
+
+**Educational technology · Team project**
+
+A platform concept designed to help Data Science students explore companies and career opportunities.
+
+`HTML` `Web Development` `EdTech`
+
+[View project →](https://github.com/Aashrayaa-B/Career-Canvas)
+
+---
+
+## Toolkit
+
+### Programming & Web Development
+
+![Python](https://img.shields.io/badge/Python-3B4D68?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3B4D68?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-3B4D68?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3B4D68?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3B4D68?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-3B4D68?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3B4D68?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Data & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-3B4D68?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3B4D68?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-3B4D68?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3B4D68?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3B4D68?style=flat-square&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-3B4D68?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-3B4D68?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### Tools & Platforms
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-3B4D68?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3B4D68?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3B4D68?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-3B4D68?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-3B4D68?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3B4D68?style=flat-square&logo=supabase&logoColor=white)
+
+Also familiar with Microsoft Word, PowerPoint, and Notion.
+
+---
+
+<div align="center" id="contact">
+
+  <p><strong>LEARN · BUILD · IMPROVE · GROW</strong></p>
+
+  <a href="https://github.com/Aashrayaa-B">GitHub</a>
+
+</div>
