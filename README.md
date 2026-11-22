@@ -17,7 +17,6 @@
   <p>
     Exploring data, building practical projects, and learning to turn ideas into useful solutions.
   </p>
-
   <br />
 
   <a href="#projects">PROJECTS</a>
