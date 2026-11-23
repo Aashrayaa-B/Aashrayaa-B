@@ -5,7 +5,6 @@
     alt="Aashrayaa Banner"
     src="https://github.com/user-attachments/assets/cb0ace8a-7999-4296-998a-d2684dc42365"
   />
-
   <br />
 
   <p><strong>DATA SCIENCE STUDENT · ANALYTICS · MACHINE LEARNING</strong></p>
